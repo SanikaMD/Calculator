@@ -181,7 +181,7 @@ public class Calculator {
                 }
             } else {
                 inText.setText("9");
-                addWrite = true;
+                addWrite = true
             }
             go = true;
         });
